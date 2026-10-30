@@ -1,0 +1,4 @@
+Title of the page is:Cleartrip: #1 Site for Booking Flights Tickets & Hotels Online - Get Best Travel Deals
+URL of the page is:https://www.cleartrip.com/
+
+Opened Browser, captured the title, URL, page source and window name
